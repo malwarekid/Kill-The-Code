@@ -15,6 +15,7 @@
 - **Output Naming:** Specify the output file name or use the default `output.py`.
 
 ## How to Use
+![Kill-The-Code](https://github.com/user-attachments/assets/071aeca4-3fc9-4cb0-8804-c67434ae6c45)
 
 1. **Clone the Repository:**
 
