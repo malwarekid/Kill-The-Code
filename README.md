@@ -20,13 +20,13 @@
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/malwarekid/kill-the-code.git && cd kill-the-code
+    git clone https://github.com/malwarekid/Kill-The-Code.git && cd Kill-The-Code
     ```
 
 2. **Run the Script:**
 
     ```
-    python3 kill-the-code.py
+    python3 Kill-The-Code.py
     ```
 
 ```
@@ -72,7 +72,7 @@ pip install requests
 ## Example
 
 ```
-python3 kill-the-code.py
+python3 Kill-The-Code.py
 ```
 
 When prompted, provide the necessary details:
